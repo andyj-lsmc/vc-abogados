@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers a professional platform for VC-Abogados, a law firm in Mexico City, featuring an attractive design to enhance client engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
